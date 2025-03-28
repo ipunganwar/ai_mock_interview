@@ -24,7 +24,7 @@ const InterviewCard = ({
       <div className="card-interview">
         <div>
           <div className="absolute top-0 right-0 w-fit px-4 py-2 rounded-bl-lg bg-light-600">
-            <p className="badge-text">{}normalizedType</p>
+            <p className="badge-text">{normalizedType}</p>
           </div>
 
           <Image
